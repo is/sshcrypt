@@ -8,7 +8,7 @@ import (
 	"os"
 	"strings"
 
-	"4d63.com/sshcrypt/lib/sshcryptdata"
+	"github.com/is/sshcrypt/lib/sshcryptdata"
 
 	"golang.org/x/crypto/ssh"
 )
